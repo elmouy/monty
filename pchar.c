@@ -4,8 +4,8 @@
  * followed by a new line
  * @head: stack head
  * @counter: line_number
- * by youssef and hassan
  * Return: no return
+ * made by hassan and youssef
 */
 void f_pchar(stack_t **head, unsigned int counter)
 {

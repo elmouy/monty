@@ -3,8 +3,8 @@
  * f_pint - prints the top
  * @head: stack head
  * @counter: line_number
- * by youssef and hassan
  * Return: no return
+ * made by youssef and hassan
 */
 void f_pint(stack_t **head, unsigned int counter)
 {

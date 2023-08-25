@@ -4,6 +4,7 @@
  * @head: stack head
  * @counter: line_number
  * Return: no return
+ * made by hassan and youssef
 */
 void f_swap(stack_t **head, unsigned int counter)
 {

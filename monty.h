@@ -15,7 +15,6 @@
  *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
- * by haihl and elmoutaouakkal
  */
 typedef struct stack_s
 {
@@ -77,3 +76,4 @@ void addqueue(stack_t **head, int n);
 void f_queue(stack_t **head, unsigned int counter);
 void f_stack(stack_t **head, unsigned int counter);
 #endif
+

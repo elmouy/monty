@@ -3,8 +3,8 @@
  * f_queue - prints the top
  * @head: stack head
  * @counter: line_number
- * by youssef and hassan
  * Return: no return
+ * made by hassan and youssef
 */
 void f_queue(stack_t **head, unsigned int counter)
 {
@@ -18,6 +18,7 @@ void f_queue(stack_t **head, unsigned int counter)
  * @n: new_value
  * @head: head of the stack
  * Return: no return
+ * made by hassan and youssef
 */
 void addqueue(stack_t **head, int n)
 {

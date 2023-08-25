@@ -3,8 +3,8 @@
  * addnode - add node to the head stack
  * @head: head of the stack
  * @n: new_value
- * by haihal and elmoutaouakkal
  * Return: no return
+ * madeby hassan and youssef
 */
 void addnode(stack_t **head, int n)
 {

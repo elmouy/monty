@@ -3,8 +3,8 @@
  * f_pop - prints the top
  * @head: stack head
  * @counter: line_number
- * by youssef and hassan
  * Return: no return
+ * made by hassan and youssef
 */
 void f_pop(stack_t **head, unsigned int counter)
 {

@@ -4,8 +4,8 @@
  * top element of the stack by the top element of the stack
  * @head: stack head
  * @counter: line_number
- * by haihal and elmoutaouakkal
  * Return: no return
+ * made by hassan and youssef
 */
 void f_mod(stack_t **head, unsigned int counter)
 {
